@@ -15,4 +15,4 @@ The most important configuration is the file *scraper.py*, this file content a m
 
 ```sh
 $ python scraper.py
-```
+``` 
