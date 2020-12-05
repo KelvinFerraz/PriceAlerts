@@ -3,7 +3,8 @@
 
 # Install dependences 
 
-`sh
+`
+
     python3 -m venv PriceAlerts
 
     source PriceAlerts/bin/active
@@ -15,6 +16,7 @@
 
 The most important configuration is the file *scraper.py*, this file content a many configs from websites of products, like notebook, washmachine, micro-ondas, etc...
 
-`sh
+`
     python scraper.py
+
 `
